@@ -1,1 +1,4 @@
 # supervised-MNIST
+Fashion-MNIST is my image classification project, which has a set of pictures demonstrating different aspects of the fashion products. The aim of this project is through trying different supervised learning models with different parameters to analysis the dataset and finds a model which can perform the best classification, i.e. highest accuracy. 
+
+The dataset is available on the following link: https://github.com/zalandoresearch/fashion-mnist. The training dataset, validation dataset and testing dataset consist of 50,000, 10,000 and 10,000 images respectively and divided into 10 different classes: “T-shirt/top”, “Trouser”, “Pullover”, “Dress”, “Coat”, “Sandal”, “Shirt”, “Sneaker”, “Bag”, “Ankle boot”, which are numbered as 0-9 respectively. Each grayscale image contains 28 x 28 pixels. 
